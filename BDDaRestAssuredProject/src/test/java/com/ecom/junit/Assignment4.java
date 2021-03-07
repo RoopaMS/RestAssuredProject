@@ -4,7 +4,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import com.google.gson.JsonObject;
+import com.google.gson.*;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

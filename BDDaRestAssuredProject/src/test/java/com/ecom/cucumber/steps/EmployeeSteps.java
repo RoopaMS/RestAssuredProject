@@ -1,6 +1,6 @@
 package com.ecom.cucumber.steps;
 
-import com.google.gson.JsonObject;
+import com.google.gson.*;
 
 import cucumber.api.java.en.When;
 import net.serenitybdd.rest.SerenityRest;
