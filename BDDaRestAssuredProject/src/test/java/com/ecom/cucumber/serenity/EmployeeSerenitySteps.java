@@ -1,6 +1,6 @@
 package com.ecom.cucumber.serenity;
 
-import com.google.gson.JsonObject;
+import gherkin.deps.com.google.gson.JsonObject;
 import io.restassured.response.ValidatableResponse;
 import net.serenitybdd.rest.SerenityRest;
 import net.thucydides.core.annotations.Step;
